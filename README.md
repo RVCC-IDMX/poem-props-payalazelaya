@@ -32,4 +32,6 @@ Poem by [Robert Louis Stevenson](https://poets.org/anthology/poems-your-poetry-p
 
 Image by [Eniola B.](https://unsplash.com/@eniolah?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText") on [Unsplash](https://unsplash.com/s/photos/bedroom-window?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
+Favicon made through [Free Favicon Maker](https://formito.com/tools/favicon)
+
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
