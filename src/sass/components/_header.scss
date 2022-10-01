@@ -1,0 +1,17 @@
+@use '../abstracts/mixins' as mixins;
+
+.hero h1,
+h2 {
+  margin-inline: auto;
+  place-content: center;
+  font-size: var(--font-size-fluid-2);
+  font-weight: var(--font-weight-7);
+  font-family: var(--font-sans);
+  line-height: var(--font-lineheight-0);
+  text-align: center;
+  color: black;
+}
+
+h1 {
+  padding-bottom: 3%;
+}

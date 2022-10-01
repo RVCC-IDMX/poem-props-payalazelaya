@@ -12,7 +12,7 @@ The build process includes minifiying and autoprefixing of styles via the `postb
 
 **`npm install`**
 
->Run this command once to install the needed node modules.
+> Run this command once to install the needed node modules.
 
 ## Development Scripts
 
@@ -27,5 +27,9 @@ The build process includes minifiying and autoprefixing of styles via the `postb
 Use this as the "Publish command" if needed by hosting services such as Netlify.
 
 ## Resources
+
+Poem by [Robert Louis Stevenson](https://poets.org/anthology/poems-your-poetry-project-public-domain)
+
+Image by [Eniola B.](https://unsplash.com/@eniolah?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText") on [Unsplash](https://unsplash.com/s/photos/bedroom-window?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>

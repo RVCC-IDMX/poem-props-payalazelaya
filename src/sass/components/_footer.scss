@@ -1,0 +1,25 @@
+@use '../abstracts/mixins' as mixins;
+
+.footer {
+  @include mixins.simple-grid(1rem);
+  place-content: center;
+  border-top: 0.3rem solid #a79549;
+  font-weight: var(--font-weight-5);
+  color: black;
+  background-color: #a79549;
+}
+
+.copyright,
+.credits {
+  text-align: center;
+  font-size: var(--font-size-0);
+  margin-inline: auto;
+}
+
+a:link {
+  color: #000086;
+}
+
+a:visited {
+  color: #200077;
+}
